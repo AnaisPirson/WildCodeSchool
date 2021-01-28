@@ -1,0 +1,18 @@
+body {
+  background-color: lightseagreen;
+}
+div {
+  background-image: url("https://images.pexels.com/photos/518245/pexels-photo-518245.jpeg");
+}
+.container {
+  font-weight: italic;
+}
+#history {
+  font-weight: bold;
+}
+
+#history {
+  height: 400px;
+  background-image: url("assets/waves_sea.jpg");
+  background-size: cover;
+}
